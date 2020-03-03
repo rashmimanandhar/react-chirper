@@ -1,8 +1,8 @@
-export const RECEIVE_Users = "RECEIVE_Users";
+export const RECEIVE_USERS = "RECEIVE_USERS";
 //action creator
 export function receiveUsers(users) {
   return {
-    type: RECEIVE_Users,
+    type: RECEIVE_USERS,
     users
   };
 }
