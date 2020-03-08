@@ -1,5 +1,5 @@
 let users = {
-  sarah_edo: {
+  rashmimanandhar: {
     id: "rashmimanandhar",
     name: "Rashmi Manandhar",
     avatarURL: "https://avatars2.githubusercontent.com/u/13958880?s=460&v=4",
@@ -47,7 +47,7 @@ let tweets = {
     id: "8xf0y6ziyjabvozdd253nd",
     text:
       "Shoutout to all the speakers I know for whom English is not a first language, but can STILL explain a concept well. It's hard enough to give a good talk in your mother tongue!",
-    author: "sarah_edo",
+    author: "rashmimanandhar",
     timestamp: 1518122597860,
     likes: ["tylermcginnis"],
     replies: ["fap8sdxppna8oabnxljzcv", "3km0v4hf1ps92ajf4z2ytg"],
@@ -59,7 +59,7 @@ let tweets = {
       "I hope one day the propTypes pendulum swings back. Such a simple yet effective API. Was one of my favorite parts of React.",
     author: "tylermcginnis",
     timestamp: 1518043995650,
-    likes: ["sarah_edo", "dan_abramov"],
+    likes: ["rashmimanandhar", "dan_abramov"],
     replies: ["njv20mq7jsxa6bgsqc97"],
     replyingTo: null
   },
@@ -76,7 +76,7 @@ let tweets = {
   hbsc73kzqi75rg7v1e0i6a: {
     id: "hbsc73kzqi75rg7v1e0i6a",
     text: "Puppies 101: buy a hamper with a lid on it.",
-    author: "sarah_edo",
+    author: "rashmimanandhar",
     timestamp: 1516043995650,
     likes: ["tylermcginnis"],
     replies: ["leqp4lzfox7cqvsgdj0e7", "sfljgka8pfddbcer8nuxv"],
@@ -88,7 +88,7 @@ let tweets = {
       "Is there a metric like code coverage, but that shows lines that, if changed (in a syntactically correct way), wouldn’t cause tests to fail?",
     author: "dan_abramov",
     timestamp: 1515043995650,
-    likes: ["sarah_edo"],
+    likes: ["rashmimanandhar"],
     replies: [],
     replyingTo: null
   },
@@ -98,7 +98,7 @@ let tweets = {
       "React came out 'rethinking best practices'. It has since accumulated 'best practices' of its own. Let’s see if we can do better.",
     author: "dan_abramov",
     timestamp: 1515043995650,
-    likes: ["tylermcginnis", "sarah_edo"],
+    likes: ["tylermcginnis", "rashmimanandhar"],
     replies: ["3sklxkf9yyfowrf0o1ftbb"],
     replyingTo: null
   },
@@ -106,7 +106,7 @@ let tweets = {
     id: "2mb6re13q842wu8n106bhk",
     text:
       "I think I realized I like dogs so much because I can really relate to being motivated by snacks",
-    author: "sarah_edo",
+    author: "rashmimanandhar",
     timestamp: 1514043995650,
     likes: ["dan_abramov"],
     replies: ["26p5pskqi88i58qmza2gid"],
@@ -146,7 +146,7 @@ let tweets = {
     id: "6h5ims9iks66d4m7kqizmv",
     text:
       "By the way, if you have a blog post sitting around and want to get some eyes on it, we take guest submissions! That's how I started.",
-    author: "sarah_edo",
+    author: "rashmimanandhar",
     timestamp: 1510043995650,
     likes: ["dan_abramov", "tylermcginnis"],
     replies: ["xi3ca2jcfvpa0i3t4m7ag", "r0xu2v1qrxa6ygtvf2rkjw"],
@@ -158,7 +158,7 @@ let tweets = {
     text:
       "I agree. I'm always really impressed when I see someone giving a talk in a language that's not their own.",
     timestamp: 1518122677860,
-    likes: ["sarah_edo"],
+    likes: ["rashmimanandhar"],
     replyingTo: "8xf0y6ziyjabvozdd253nd",
     replies: []
   },
@@ -194,13 +194,13 @@ let tweets = {
     author: "dan_abramov",
     text: "Puppies are the best.",
     timestamp: 1516045995650,
-    likes: ["sarah_edo", "tylermcginnis"],
+    likes: ["rashmimanandhar", "tylermcginnis"],
     replyingTo: "hbsc73kzqi75rg7v1e0i6a",
     replies: []
   },
   "3sklxkf9yyfowrf0o1ftbb": {
     id: "3sklxkf9yyfowrf0o1ftbb",
-    author: "sarah_edo",
+    author: "rashmimanandhar",
     text:
       "The idea of best practices being a negative thing is an interesting concept.",
     timestamp: 1515044095650,
@@ -213,7 +213,7 @@ let tweets = {
     author: "tylermcginnis",
     text: "Too relatable",
     timestamp: 1514044994650,
-    likes: ["sarah_edo"],
+    likes: ["rashmimanandhar"],
     replyingTo: "2mb6re13q842wu8n106bhk",
     replies: []
   },
