@@ -29,7 +29,6 @@ class Tweet extends Component {
       replies,
       parent
     } = tweet;
-    console.log(likes);
     return (
       <div className="tweet">
         <img src={avatar} alt={`Avatar of ${name}`} className="avatar" />
